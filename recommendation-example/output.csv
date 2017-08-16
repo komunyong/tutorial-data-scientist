@@ -1,0 +1,209 @@
+,Date,StuffCategories,Price,Discount,NMV,transaction_date,transaction_time,bought_categories,0
+0,2017-07-09 13:46:03,"women_fashion,women_dresses",1620,100,1520,2017-07-09,13:46:03,"['women_fashion', 'women_dresses']",lifestyle
+1,2017-07-10 06:43:14,"lifestyle,lifestyle_gadget_tech",3280,7,3273,2017-07-10,06:43:14,"['lifestyle', 'lifestyle_gadget_tech']",all
+2,2017-07-10 06:46:44,"women_fashion,women_tops",680,0,680,2017-07-10,06:46:44,"['women_fashion', 'women_tops']",men_watches
+3,2017-07-10 11:35:12,"women_fashion,women_skirts,women_fashion,women_tops",2180,83,2097,2017-07-10,11:35:12,"['women_fashion', 'women_skirts', 'women_fashion', 'women_tops']",women_tops
+4,2017-07-10 12:43:05,"women_fashion,women_bags_wallets",880,39,841,2017-07-10,12:43:05,"['women_fashion', 'women_bags_wallets']",men_underwear
+5,2017-07-10 16:40:18,"lifestyle,lifestyle_for_home",640,0,640,2017-07-10,16:40:18,"['lifestyle', 'lifestyle_for_home']",lifestyle_sports
+6,2017-07-10 20:10:28,"women_fashion,women_tops",770,0,770,2017-07-10,20:10:28,"['women_fashion', 'women_tops']",women_fashion
+7,2017-07-10 21:28:54,"women_fashion,women_tops",1380,136,1244,2017-07-10,21:28:54,"['women_fashion', 'women_tops']",lifestyle
+8,2017-07-10 22:33:08,"women_fashion,women_bags_wallets",1880,133,1747,2017-07-10,22:33:08,"['women_fashion', 'women_bags_wallets']",women_glasses
+9,2017-07-11 11:25:31,"men_fashion,men_tops",1080,0,1080,2017-07-11,11:25:31,"['men_fashion', 'men_tops']",women_hats
+10,2017-07-11 12:28:30,"women_fashion,women_shoes",1460,0,1460,2017-07-11,12:28:30,"['women_fashion', 'women_shoes']",women_glasses
+11,2017-07-11 12:37:51,"men_fashion,men_tops",1280,0,1280,2017-07-11,12:37:51,"['men_fashion', 'men_tops']",men_jewelry
+12,2017-07-11 12:38:54,"men_fashion,men_tops",840,0,840,2017-07-11,12:38:54,"['men_fashion', 'men_tops']",women_shorts
+13,2017-07-11 13:31:58,"women_fashion,women_dresses",2080,0,2080,2017-07-11,13:31:58,"['women_fashion', 'women_dresses']",men_shorts
+14,2017-07-11 13:36:17,"women_fashion,women_tops",640,0,640,2017-07-11,13:36:17,"['women_fashion', 'women_tops']",men_shoes
+15,2017-07-11 13:48:18,"lifestyle,lifestyle_for_home",2940,0,2940,2017-07-11,13:48:18,"['lifestyle', 'lifestyle_for_home']",women_watches
+16,2017-07-11 15:06:52,"women_fashion,women_pants_leggings",620,0,620,2017-07-11,15:06:52,"['women_fashion', 'women_pants_leggings']",men_jewelry
+17,2017-07-12 15:16:52,"women_fashion,women_tops",700,100,600,2017-07-12,15:16:52,"['women_fashion', 'women_tops']",women_shorts
+18,2017-07-12 18:50:18,"women_fashion,women_tops",640,0,640,2017-07-12,18:50:18,"['women_fashion', 'women_tops']",women_skirts
+19,2017-07-13 16:27:22,"women_fashion,women_tops",660,100,560,2017-07-13,16:27:22,"['women_fashion', 'women_tops']",men_shoes
+20,2017-07-14 07:45:46,"men_fashion,men_tops",1480,0,1480,2017-07-14,07:45:46,"['men_fashion', 'men_tops']",all
+21,2017-07-14 08:06:20,"lifestyle,lifestyle_for_home",1400,0,1400,2017-07-14,08:06:20,"['lifestyle', 'lifestyle_for_home']",women_swimwear
+22,2017-07-14 13:56:52,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",3060,0,3060,2017-07-14,13:56:52,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",women_skirts
+23,2017-07-14 14:13:18,"women_fashion,women_bags_wallets",2400,114,2286,2017-07-14,14:13:18,"['women_fashion', 'women_bags_wallets']",all
+24,2017-07-14 16:48:07,"men_fashion,men_tops,men_fashion,men_tops",3100,0,3100,2017-07-14,16:48:07,"['men_fashion', 'men_tops', 'men_fashion', 'men_tops']",women_jewelry
+25,2017-07-14 18:40:36,"lifestyle,lifestyle_crafts",930,100,830,2017-07-14,18:40:36,"['lifestyle', 'lifestyle_crafts']",men_shorts
+26,2017-07-15 00:28:17,"men_fashion,men_tops",4140,0,4140,2017-07-15,00:28:17,"['men_fashion', 'men_tops']",lifestyle_gadget_tech
+27,2017-07-15 00:30:06,"men_fashion,men_tops",3540,0,3540,2017-07-15,00:30:06,"['men_fashion', 'men_tops']",men_shorts
+28,2017-07-15 17:35:07,"lifestyle,lifestyle_gift_ideas",800,0,800,2017-07-15,17:35:07,"['lifestyle', 'lifestyle_gift_ideas']",lifestyle_sports
+29,2017-07-15 22:27:13,"women_fashion,women_bags_wallets",1300,0,1300,2017-07-15,22:27:13,"['women_fashion', 'women_bags_wallets']",all
+30,2017-07-16 12:51:15,"women_fashion,women_glasses",840,128,712,2017-07-16,12:51:15,"['women_fashion', 'women_glasses']",all
+31,2017-07-16 13:00:56,"women_fashion,all",980,100,880,2017-07-16,13:00:56,"['women_fashion', 'all']",men_tops
+32,2017-07-16 13:05:39,"men_fashion,men_bags_wallets",498,0,498,2017-07-16,13:05:39,"['men_fashion', 'men_bags_wallets']",women_shoes
+33,2017-07-16 15:08:51,"women_fashion,women_jewelry",800,0,800,2017-07-16,15:08:51,"['women_fashion', 'women_jewelry']",women_shoes
+34,2017-07-16 17:01:01,"lifestyle,lifestyle_for_home",2200,210,1990,2017-07-16,17:01:01,"['lifestyle', 'lifestyle_for_home']",women_watches
+35,2017-07-16 17:53:47,"women_fashion,women_tops",1300,130,1170,2017-07-16,17:53:47,"['women_fashion', 'women_tops']",men_watches
+36,2017-07-16 22:16:15,"women_fashion,women_tops",2660,100,2560,2017-07-16,22:16:15,"['women_fashion', 'women_tops']",women_swimwear
+37,2017-07-16 22:19:42,"women_fashion,women_pants_leggings",1720,100,1620,2017-07-16,22:19:42,"['women_fashion', 'women_pants_leggings']",lifestyle_sports
+38,2017-07-17 16:11:20,"women_fashion,women_shoes",2640,250,2390,2017-07-17,16:11:20,"['women_fashion', 'women_shoes']",men_tops
+39,2017-07-17 17:12:12,"men_fashion,men_bags_wallets",1280,118,1162,2017-07-17,17:12:12,"['men_fashion', 'men_bags_wallets']",men_hats
+40,2017-07-19 22:27:42,"women_fashion,women_jewelry",320,0,320,2017-07-19,22:27:42,"['women_fashion', 'women_jewelry']",lifestyle_sports
+41,2017-07-19 22:28:56,"women_fashion,women_jewelry",320,0,320,2017-07-19,22:28:56,"['women_fashion', 'women_jewelry']",men_hats
+42,2017-07-20 08:32:29,"women_fashion,women_tops",1380,100,1280,2017-07-20,08:32:29,"['women_fashion', 'women_tops']",lifestyle
+43,2017-07-20 10:25:10,"lifestyle,lifestyle_crafts",930,100,830,2017-07-20,10:25:10,"['lifestyle', 'lifestyle_crafts']",men_glasses
+44,2017-07-20 14:21:04,"women_fashion,women_tops",660,0,660,2017-07-20,14:21:04,"['women_fashion', 'women_tops']",men_watches
+45,2017-07-21 14:21:53,"women_fashion,women_swimwear",2060,0,2060,2017-07-21,14:21:53,"['women_fashion', 'women_swimwear']",men_hats
+46,2017-07-21 14:24:06,"women_fashion,women_swimwear",2480,0,2480,2017-07-21,14:24:06,"['women_fashion', 'women_swimwear']",women_tops
+47,2017-07-21 19:42:58,"women_fashion,women_jewelry",460,100,360,2017-07-21,19:42:58,"['women_fashion', 'women_jewelry']",women_skirts
+48,2017-07-21 23:12:29,"women_fashion,women_dresses",2060,24,2036,2017-07-21,23:12:29,"['women_fashion', 'women_dresses']",women_skirts
+49,2017-07-21 23:14:39,"women_fashion,women_bags_wallets",1280,0,1280,2017-07-21,23:14:39,"['women_fashion', 'women_bags_wallets']",men_hats
+50,2017-07-22 11:34:00,"women_fashion,women_shoes",1720,0,1720,2017-07-22,11:34:00,"['women_fashion', 'women_shoes']",women_swimwear
+51,2017-07-22 14:32:16,"lifestyle,lifestyle_other",400,0,400,2017-07-22,14:32:16,"['lifestyle', 'lifestyle_other']",lifestyle_stationeries
+52,2017-07-22 20:11:10,"lifestyle,lifestyle_phone_accessories,lifestyle,lifestyle_phone_accessories",1520,0,1520,2017-07-22,20:11:10,"['lifestyle', 'lifestyle_phone_accessories', 'lifestyle', 'lifestyle_phone_accessories']",lifestyle_gadget_tech
+53,2017-07-22 22:11:37,"women_fashion,women_bags_wallets",1090,0,1090,2017-07-22,22:11:37,"['women_fashion', 'women_bags_wallets']",all
+54,2017-07-22 22:14:04,"lifestyle,lifestyle_for_home,lifestyle,lifestyle_for_home",5560,0,5560,2017-07-22,22:14:04,"['lifestyle', 'lifestyle_for_home', 'lifestyle', 'lifestyle_for_home']",men_underwear
+55,2017-07-23 12:48:23,"women_fashion,women_tops",460,0,460,2017-07-23,12:48:23,"['women_fashion', 'women_tops']",men_watches
+56,2017-07-23 17:04:40,"lifestyle,lifestyle_for_home,lifestyle,lifestyle_for_home",4700,345,4355,2017-07-23,17:04:40,"['lifestyle', 'lifestyle_for_home', 'lifestyle', 'lifestyle_for_home']",men_hats
+57,2017-07-23 21:07:09,"lifestyle,lifestyle_phone_accessories",1840,0,1840,2017-07-23,21:07:09,"['lifestyle', 'lifestyle_phone_accessories']",men_shorts
+58,2017-07-23 21:18:25,"women_fashion,women_shoes",1120,0,1120,2017-07-23,21:18:25,"['women_fashion', 'women_shoes']",women_jewelry
+59,2017-07-23 23:50:47,"women_fashion,women_jewelry",318,100,218,2017-07-23,23:50:47,"['women_fashion', 'women_jewelry']",men_hats
+60,2017-07-24 03:21:22,"lifestyle,lifestyle_other",800,35,765,2017-07-24,03:21:22,"['lifestyle', 'lifestyle_other']",women_swimwear
+61,2017-07-24 08:38:07,"men_fashion,men_tops",2480,0,2480,2017-07-24,08:38:07,"['men_fashion', 'men_tops']",men_hats
+62,2017-07-24 08:50:11,"women_fashion,women_shoes",1040,0,1040,2017-07-24,08:50:11,"['women_fashion', 'women_shoes']",women_glasses
+63,2017-07-24 16:31:21,"women_fashion,women_bags_wallets",3340,238,3102,2017-07-24,16:31:21,"['women_fashion', 'women_bags_wallets']",women_tops
+64,2017-07-24 21:05:14,"women_fashion,women_tops",420,0,420,2017-07-24,21:05:14,"['women_fashion', 'women_tops']",men_hats
+65,2017-07-24 22:03:35,"men_fashion,men_glasses",1980,0,1980,2017-07-24,22:03:35,"['men_fashion', 'men_glasses']",women_dresses
+66,2017-07-25 08:34:40,"women_fashion,women_shoes",1520,106,1414,2017-07-25,08:34:40,"['women_fashion', 'women_shoes']",men_hats
+67,2017-07-25 10:25:44,"women_fashion,women_swimwear",2280,100,2180,2017-07-25,10:25:44,"['women_fashion', 'women_swimwear']",women_pants_leggings
+68,2017-07-25 21:37:56,"lifestyle,lifestyle_for_home,lifestyle,lifestyle_for_home",12400,0,12400,2017-07-25,21:37:56,"['lifestyle', 'lifestyle_for_home', 'lifestyle', 'lifestyle_for_home']",men_tops
+69,2017-07-26 08:33:56,"women_fashion,all",1380,100,1280,2017-07-26,08:33:56,"['women_fashion', 'all']",women_tops
+70,2017-07-26 11:25:15,"women_fashion,women_shoes",3080,140,2940,2017-07-26,11:25:15,"['women_fashion', 'women_shoes']",men_hats
+71,2017-07-26 14:45:56,"men_fashion,men_tops",880,0,880,2017-07-26,14:45:56,"['men_fashion', 'men_tops']",men_hats
+72,2017-07-26 15:27:35,"men_fashion,men_shoes",7380,553,6827,2017-07-26,15:27:35,"['men_fashion', 'men_shoes']",men_hats
+73,2017-07-26 21:32:52,"women_fashion,women_bags_wallets",1500,0,1500,2017-07-26,21:32:52,"['women_fashion', 'women_bags_wallets']",women_pants_leggings
+74,2017-07-27 10:53:05,"women_fashion,women_swimwear",2500,700,1800,2017-07-27,10:53:05,"['women_fashion', 'women_swimwear']",men_hats
+75,2017-07-27 11:25:56,"women_fashion,women_shoes",2320,500,1820,2017-07-27,11:25:56,"['women_fashion', 'women_shoes']",men_watches
+76,2017-07-27 11:38:59,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2100,500,1600,2017-07-27,11:38:59,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",women_dresses
+77,2017-07-27 11:40:37,"lifestyle,lifestyle_gift_ideas",680,0,680,2017-07-27,11:40:37,"['lifestyle', 'lifestyle_gift_ideas']",men_hats
+78,2017-07-27 11:44:35,"women_fashion,women_jewelry",2180,500,1680,2017-07-27,11:44:35,"['women_fashion', 'women_jewelry']",women_glasses
+79,2017-07-27 11:58:05,"lifestyle,lifestyle_gadget_tech",3200,500,2700,2017-07-27,11:58:05,"['lifestyle', 'lifestyle_gadget_tech']",men_hats
+80,2017-07-27 12:02:19,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2490,500,1990,2017-07-27,12:02:19,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",lifestyle
+81,2017-07-27 12:04:18,"lifestyle,lifestyle_other",8600,500,8100,2017-07-27,12:04:18,"['lifestyle', 'lifestyle_other']",men_hats
+82,2017-07-27 12:06:14,"men_fashion,men_pants",2220,500,1720,2017-07-27,12:06:14,"['men_fashion', 'men_pants']",men_hats
+83,2017-07-27 12:10:55,"men_fashion,men_tops,men_fashion,men_pants",2260,500,1760,2017-07-27,12:10:55,"['men_fashion', 'men_tops', 'men_fashion', 'men_pants']",lifestyle_phone_accessories
+84,2017-07-27 12:11:04,"men_fashion,men_pants",2300,500,1800,2017-07-27,12:11:04,"['men_fashion', 'men_pants']",women_tops
+85,2017-07-27 12:14:48,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2360,500,1860,2017-07-27,12:14:48,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",men_underwear
+86,2017-07-27 12:22:14,"women_fashion,women_bags_wallets",2180,500,1680,2017-07-27,12:22:14,"['women_fashion', 'women_bags_wallets']",men_watches
+87,2017-07-27 12:23:12,"men_fashion,men_pants",2480,500,1980,2017-07-27,12:23:12,"['men_fashion', 'men_pants']",lifestyle
+88,2017-07-27 12:24:08,"lifestyle,lifestyle_gadget_tech",2180,500,1680,2017-07-27,12:24:08,"['lifestyle', 'lifestyle_gadget_tech']",men_watches
+89,2017-07-27 12:31:20,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2320,500,1820,2017-07-27,12:31:20,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",women_glasses
+90,2017-07-27 12:37:04,"women_fashion,women_tops",1220,5,1215,2017-07-27,12:37:04,"['women_fashion', 'women_tops']",women_jewelry
+91,2017-07-27 12:48:35,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2320,500,1820,2017-07-27,12:48:35,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",men_hats
+92,2017-07-27 13:37:58,"women_fashion,women_bags_wallets",1380,0,1380,2017-07-27,13:37:58,"['women_fashion', 'women_bags_wallets']",women_tops
+93,2017-07-27 13:44:58,"women_fashion,women_swimwear",2280,500,1780,2017-07-27,13:44:58,"['women_fashion', 'women_swimwear']",women_skirts
+94,2017-07-27 13:45:20,"women_fashion,women_swimwear",2280,500,1780,2017-07-27,13:45:20,"['women_fashion', 'women_swimwear']",lifestyle
+95,2017-07-27 14:02:48,"men_fashion,men_underwear,men_fashion,men_underwear",2492,500,1992,2017-07-27,14:02:48,"['men_fashion', 'men_underwear', 'men_fashion', 'men_underwear']",men_hats
+96,2017-07-27 14:37:31,"men_fashion,men_bags_wallets,men_fashion,men_bags_wallets",2120,500,1620,2017-07-27,14:37:31,"['men_fashion', 'men_bags_wallets', 'men_fashion', 'men_bags_wallets']",women_jackets_blazers
+97,2017-07-27 15:22:55,"women_fashion,women_bags_wallets",3280,300,2980,2017-07-27,15:22:55,"['women_fashion', 'women_bags_wallets']",women_other
+98,2017-07-27 16:20:53,"women_fashion,women_swimwear",2880,300,2580,2017-07-27,16:20:53,"['women_fashion', 'women_swimwear']",men_hats
+99,2017-07-27 18:01:20,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",3440,300,3140,2017-07-27,18:01:20,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",women_pants_leggings
+100,2017-07-27 18:36:25,"women_fashion,women_tops,women_fashion,women_jackets_blazers",2660,700,1960,2017-07-27,18:36:25,"['women_fashion', 'women_tops', 'women_fashion', 'women_jackets_blazers']",lifestyle_phone_accessories
+101,2017-07-27 18:45:40,"women_fashion,women_dresses,women_fashion,women_tops",2680,300,2380,2017-07-27,18:45:40,"['women_fashion', 'women_dresses', 'women_fashion', 'women_tops']",women_other
+102,2017-07-27 19:05:24,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2520,300,2220,2017-07-27,19:05:24,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",men_shoes
+103,2017-07-27 19:30:34,"women_fashion,women_shoes,women_fashion,women_shoes",2180,300,1880,2017-07-27,19:30:34,"['women_fashion', 'women_shoes', 'women_fashion', 'women_shoes']",women_other
+104,2017-07-27 20:20:06,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2520,300,2220,2017-07-27,20:20:06,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",women_bags_wallets
+105,2017-07-27 21:06:41,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2320,300,2020,2017-07-27,21:06:41,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",women_glasses
+106,2017-07-27 22:03:08,"men_fashion,men_bags_wallets",2740,300,2440,2017-07-27,22:03:08,"['men_fashion', 'men_bags_wallets']",men_fashion
+107,2017-07-27 23:20:07,"lifestyle,lifestyle_other",6600,300,6300,2017-07-27,23:20:07,"['lifestyle', 'lifestyle_other']",lifestyle_phone_accessories
+108,2017-07-27 23:32:59,"women_fashion,women_bags_wallets,men_fashion,men_bags_wallets",2500,300,2200,2017-07-27,23:32:59,"['women_fashion', 'women_bags_wallets', 'men_fashion', 'men_bags_wallets']",women_tops
+109,2017-07-27 23:58:28,"men_fashion,men_pants",3900,300,3600,2017-07-27,23:58:28,"['men_fashion', 'men_pants']",men_shoes
+110,2017-07-28 00:00:27,"men_fashion,men_pants",3080,300,2780,2017-07-28,00:00:27,"['men_fashion', 'men_pants']",women_jewelry
+111,2017-07-28 00:01:51,"lifestyle,lifestyle_other,lifestyle,lifestyle_for_home",2300,700,1600,2017-07-28,00:01:51,"['lifestyle', 'lifestyle_other', 'lifestyle', 'lifestyle_for_home']",women_skirts
+112,2017-07-28 00:02:15,"lifestyle,lifestyle_phone_accessories,lifestyle,lifestyle_gadget_tech",2200,700,1500,2017-07-28,00:02:15,"['lifestyle', 'lifestyle_phone_accessories', 'lifestyle', 'lifestyle_gadget_tech']",lifestyle_other
+113,2017-07-28 00:11:06,"women_fashion,women_shoes",2460,312,2148,2017-07-28,00:11:06,"['women_fashion', 'women_shoes']",men_shorts
+114,2017-07-28 01:04:19,"women_fashion,women_bags_wallets",2320,300,2020,2017-07-28,01:04:19,"['women_fashion', 'women_bags_wallets']",men_hats
+115,2017-07-28 02:33:57,"women_fashion,women_tops,women_fashion,women_shorts",3260,300,2960,2017-07-28,02:33:57,"['women_fashion', 'women_tops', 'women_fashion', 'women_shorts']",women_shoes
+116,2017-07-28 06:38:13,"women_fashion,women_jewelry,women_fashion,women_jewelry",3960,500,3460,2017-07-28,06:38:13,"['women_fashion', 'women_jewelry', 'women_fashion', 'women_jewelry']",men_watches
+117,2017-07-28 08:48:31,"women_fashion,women_pants_leggings,women_fashion,women_tops",2300,500,1800,2017-07-28,08:48:31,"['women_fashion', 'women_pants_leggings', 'women_fashion', 'women_tops']",men_tops
+118,2017-07-28 08:57:59,"women_fashion,women_swimwear",2880,500,2380,2017-07-28,08:57:59,"['women_fashion', 'women_swimwear']",women_jewelry
+119,2017-07-28 09:04:12,"women_fashion,women_jewelry,women_fashion,women_jewelry",3560,500,3060,2017-07-28,09:04:12,"['women_fashion', 'women_jewelry', 'women_fashion', 'women_jewelry']",men_jewelry
+120,2017-07-28 09:48:16,"women_fashion,women_shoes",2460,500,1960,2017-07-28,09:48:16,"['women_fashion', 'women_shoes']",all
+121,2017-07-28 10:36:57,"women_fashion,women_bags_wallets",2680,300,2380,2017-07-28,10:36:57,"['women_fashion', 'women_bags_wallets']",women_dresses
+122,2017-07-28 10:59:32,"women_fashion,women_tops",2660,303,2357,2017-07-28,10:59:32,"['women_fashion', 'women_tops']",women_skirts
+123,2017-07-28 11:13:24,"women_fashion,women_tops",680,0,680,2017-07-28,11:13:24,"['women_fashion', 'women_tops']",men_jewelry
+124,2017-07-28 11:30:32,"women_fashion,women_other",1380,0,1380,2017-07-28,11:30:32,"['women_fashion', 'women_other']",lifestyle_for_home
+125,2017-07-28 11:34:28,"men_fashion,men_pants",2980,300,2680,2017-07-28,11:34:28,"['men_fashion', 'men_pants']",women_jewelry
+126,2017-07-28 12:29:48,"women_fashion,women_pants_leggings",3480,300,3180,2017-07-28,12:29:48,"['women_fashion', 'women_pants_leggings']",women_dresses
+127,2017-07-28 15:15:34,"women_fashion,women_swimwear",2280,300,1980,2017-07-28,15:15:34,"['women_fashion', 'women_swimwear']",all
+128,2017-07-28 16:21:54,"women_fashion,women_dresses,women_fashion,women_tops",2280,300,1980,2017-07-28,16:21:54,"['women_fashion', 'women_dresses', 'women_fashion', 'women_tops']",all
+129,2017-07-28 17:03:41,"women_fashion,women_jewelry",360,0,360,2017-07-28,17:03:41,"['women_fashion', 'women_jewelry']",men_hats
+130,2017-07-28 19:05:36,"women_fashion,women_bags_wallets",3340,0,3340,2017-07-28,19:05:36,"['women_fashion', 'women_bags_wallets']",men_shorts
+131,2017-07-28 19:25:16,"women_fashion,women_bags_wallets",3340,300,3040,2017-07-28,19:25:16,"['women_fashion', 'women_bags_wallets']",women_shorts
+132,2017-07-28 19:46:12,"women_fashion,women_bags_wallets",2680,300,2380,2017-07-28,19:46:12,"['women_fashion', 'women_bags_wallets']",men_bags_wallets
+133,2017-07-28 19:55:47,"men_fashion,men_bags_wallets",4700,300,4400,2017-07-28,19:55:47,"['men_fashion', 'men_bags_wallets']",men_shoes
+134,2017-07-28 20:31:22,"women_fashion,women_bags_wallets",2680,300,2380,2017-07-28,20:31:22,"['women_fashion', 'women_bags_wallets']",men_watches
+135,2017-07-28 20:36:10,"men_fashion,men_bags_wallets",4760,300,4460,2017-07-28,20:36:10,"['men_fashion', 'men_bags_wallets']",women_jewelry
+136,2017-07-28 21:06:06,"women_fashion,women_bags_wallets",3340,300,3040,2017-07-28,21:06:06,"['women_fashion', 'women_bags_wallets']",women_skirts
+137,2017-07-28 21:30:42,"women_fashion,women_bags_wallets",3280,300,2980,2017-07-28,21:30:42,"['women_fashion', 'women_bags_wallets']",lifestyle_other
+138,2017-07-28 21:43:48,"lifestyle,lifestyle_gadget_tech",2680,300,2380,2017-07-28,21:43:48,"['lifestyle', 'lifestyle_gadget_tech']",men_underwear
+139,2017-07-29 00:06:50,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2540,700,1840,2017-07-29,00:06:50,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",all
+140,2017-07-29 00:06:58,"women_fashion,women_dresses",2480,700,1780,2017-07-29,00:06:58,"['women_fashion', 'women_dresses']",lifestyle_gadget_tech
+141,2017-07-29 00:08:16,"women_fashion,women_tops,women_fashion,women_tops",2860,300,2560,2017-07-29,00:08:16,"['women_fashion', 'women_tops', 'women_fashion', 'women_tops']",lifestyle
+142,2017-07-29 02:41:39,"women_fashion,women_shoes",2280,300,1980,2017-07-29,02:41:39,"['women_fashion', 'women_shoes']",women_sports
+143,2017-07-29 05:58:05,"women_fashion,women_shoes",1120,73,1047,2017-07-29,05:58:05,"['women_fashion', 'women_shoes']",lifestyle_gadget_tech
+144,2017-07-29 11:19:51,"women_fashion,women_bags_wallets",2320,300,2020,2017-07-29,11:19:51,"['women_fashion', 'women_bags_wallets']",men_watches
+145,2017-07-29 13:46:48,"women_fashion,women_bags_wallets",2680,300,2380,2017-07-29,13:46:48,"['women_fashion', 'women_bags_wallets']",men_fashion
+146,2017-07-29 15:21:42,"women_fashion,women_bags_wallets",3280,300,2980,2017-07-29,15:21:42,"['women_fashion', 'women_bags_wallets']",lifestyle_other
+147,2017-07-29 16:48:44,"women_fashion,women_bags_wallets",2320,300,2020,2017-07-29,16:48:44,"['women_fashion', 'women_bags_wallets']",men_fashion
+148,2017-07-29 18:13:55,"women_fashion,women_tops",600,0,600,2017-07-29,18:13:55,"['women_fashion', 'women_tops']",women_sports
+149,2017-07-29 21:21:39,"women_fashion,women_tops,women_fashion,women_tops",2860,0,2860,2017-07-29,21:21:39,"['women_fashion', 'women_tops', 'women_fashion', 'women_tops']",men_underwear
+150,2017-07-29 21:37:32,"lifestyle,lifestyle_gadget_tech",2800,700,2100,2017-07-29,21:37:32,"['lifestyle', 'lifestyle_gadget_tech']",women_hats
+151,2017-07-29 22:54:06,"women_fashion,women_bags_wallets",2280,500,1780,2017-07-29,22:54:06,"['women_fashion', 'women_bags_wallets']",women_sports
+152,2017-07-30 00:04:05,"women_fashion,women_jewelry",2600,500,2100,2017-07-30,00:04:05,"['women_fashion', 'women_jewelry']",men_fashion
+153,2017-07-30 02:22:09,"women_fashion,women_tops,women_fashion,women_tops",2200,200,2000,2017-07-30,02:22:09,"['women_fashion', 'women_tops', 'women_fashion', 'women_tops']",lifestyle_gadget_tech
+154,2017-07-30 09:36:46,"lifestyle,lifestyle_phone_accessories,lifestyle,lifestyle_phone_accessories",1680,0,1680,2017-07-30,09:36:46,"['lifestyle', 'lifestyle_phone_accessories', 'lifestyle', 'lifestyle_phone_accessories']",women_swimwear
+155,2017-07-30 14:39:19,"women_fashion,women_shoes",1260,88,1172,2017-07-30,14:39:19,"['women_fashion', 'women_shoes']",men_tops
+156,2017-07-30 15:26:10,"women_fashion,women_bags_wallets",2280,300,1980,2017-07-30,15:26:10,"['women_fashion', 'women_bags_wallets']",all
+157,2017-07-30 16:00:30,"lifestyle,lifestyle_gadget_tech",3100,300,2800,2017-07-30,16:00:30,"['lifestyle', 'lifestyle_gadget_tech']",men_watches
+158,2017-07-30 16:23:26,"women_fashion,women_bags_wallets",3340,300,3040,2017-07-30,16:23:26,"['women_fashion', 'women_bags_wallets']",lifestyle
+159,2017-07-30 18:11:26,"lifestyle,lifestyle_sports",2680,300,2380,2017-07-30,18:11:26,"['lifestyle', 'lifestyle_sports']",women_watches
+160,2017-07-30 19:06:05,"women_fashion,women_bags_wallets",3280,300,2980,2017-07-30,19:06:05,"['women_fashion', 'women_bags_wallets']",lifestyle_sports
+161,2017-07-30 19:37:21,"lifestyle,lifestyle_gadget_tech",2800,300,2500,2017-07-30,19:37:21,"['lifestyle', 'lifestyle_gadget_tech']",lifestyle_gift_ideas
+162,2017-07-30 21:05:56,"men_fashion,men_hats",1080,0,1080,2017-07-30,21:05:56,"['men_fashion', 'men_hats']",lifestyle
+163,2017-07-31 00:01:44,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2290,700,1590,2017-07-31,00:01:44,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",lifestyle
+164,2017-07-31 00:01:47,"lifestyle,lifestyle_for_home,lifestyle,lifestyle_for_home",2100,700,1400,2017-07-31,00:01:47,"['lifestyle', 'lifestyle_for_home', 'lifestyle', 'lifestyle_for_home']",men_watches
+165,2017-07-31 00:03:18,"women_fashion,women_bags_wallets,women_fashion,women_bags_wallets",2600,500,2100,2017-07-31,00:03:18,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_bags_wallets']",women_pants_leggings
+166,2017-07-31 00:06:54,"men_fashion,men_tops,men_fashion,men_tops",2580,300,2280,2017-07-31,00:06:54,"['men_fashion', 'men_tops', 'men_fashion', 'men_tops']",men_watches
+167,2017-07-31 08:34:51,"women_fashion,women_bags_wallets",2680,300,2380,2017-07-31,08:34:51,"['women_fashion', 'women_bags_wallets']",all
+168,2017-07-31 11:12:15,"women_fashion,women_bags_wallets,women_fashion,women_dresses",2260,300,1960,2017-07-31,11:12:15,"['women_fashion', 'women_bags_wallets', 'women_fashion', 'women_dresses']",women_sports
+169,2017-07-31 11:18:04,"women_fashion,women_jewelry,women_fashion,women_jewelry,women_fashion,women_jewelry",3940,300,3640,2017-07-31,11:18:04,"['women_fashion', 'women_jewelry', 'women_fashion', 'women_jewelry', 'women_fashion', 'women_jewelry']",women_glasses
+170,2017-07-31 13:59:24,"men_fashion,men_pants",2780,300,2480,2017-07-31,13:59:24,"['men_fashion', 'men_pants']",women_jewelry
+171,2017-07-31 14:43:12,"lifestyle,lifestyle_gadget_tech",2680,300,2380,2017-07-31,14:43:12,"['lifestyle', 'lifestyle_gadget_tech']",women_glasses
+172,2017-07-31 16:57:27,"women_fashion,women_tops,women_fashion,women_tops,women_fashion,women_tops",2220,300,1920,2017-07-31,16:57:27,"['women_fashion', 'women_tops', 'women_fashion', 'women_tops', 'women_fashion', 'women_tops']",women_jewelry
+173,2017-07-31 18:30:57,"lifestyle,lifestyle_for_home",11600,580,11020,2017-07-31,18:30:57,"['lifestyle', 'lifestyle_for_home']",lifestyle_sports
+174,2017-07-31 19:48:21,"men_fashion,men_bags_wallets",1080,0,1080,2017-07-31,19:48:21,"['men_fashion', 'men_bags_wallets']",women_dresses
+175,2017-07-31 21:27:08,"lifestyle,lifestyle_gadget_tech",2800,300,2500,2017-07-31,21:27:08,"['lifestyle', 'lifestyle_gadget_tech']",men_underwear
+176,2017-08-01 11:44:14,"men_fashion,men_tops",1480,100,1380,2017-08-01,11:44:14,"['men_fashion', 'men_tops']",men_watches
+177,2017-08-01 13:06:02,"lifestyle,lifestyle_for_home",3400,0,3400,2017-08-01,13:06:02,"['lifestyle', 'lifestyle_for_home']",men_tops
+178,2017-08-01 18:13:31,"women_fashion,women_tops",1040,49,991,2017-08-01,18:13:31,"['women_fashion', 'women_tops']",lifestyle_sports
+179,2017-08-01 18:30:26,"men_fashion,men_tops",1200,0,1200,2017-08-01,18:30:26,"['men_fashion', 'men_tops']",women_pants_leggings
+180,2017-08-01 19:58:11,"men_fashion,men_bags_wallets",1080,0,1080,2017-08-01,19:58:11,"['men_fashion', 'men_bags_wallets']",lifestyle_crafts
+181,2017-08-01 20:10:54,"women_fashion,women_shoes",1120,0,1120,2017-08-01,20:10:54,"['women_fashion', 'women_shoes']",men_bags_wallets
+182,2017-08-01 20:29:06,"women_fashion,women_bags_wallets",2580,0,2580,2017-08-01,20:29:06,"['women_fashion', 'women_bags_wallets']",women_pants_leggings
+183,2017-08-01 20:45:05,"men_fashion,men_tops",880,0,880,2017-08-01,20:45:05,"['men_fashion', 'men_tops']",women_skirts
+184,2017-08-01 20:45:38,"women_fashion,women_tops",760,0,760,2017-08-01,20:45:38,"['women_fashion', 'women_tops']",men_hats
+185,2017-08-02 13:12:35,"men_fashion,men_tops",1480,100,1380,2017-08-02,13:12:35,"['men_fashion', 'men_tops']",women_glasses
+186,2017-08-02 16:03:29,"men_fashion,men_bags_wallets",2740,129,2611,2017-08-02,16:03:29,"['men_fashion', 'men_bags_wallets']",men_fashion
+187,2017-08-02 16:46:30,"men_fashion,men_bags_wallets",2740,129,2611,2017-08-02,16:46:30,"['men_fashion', 'men_bags_wallets']",lifestyle_gadget_tech
+188,2017-08-02 17:30:43,"men_fashion,men_bags_wallets",1080,0,1080,2017-08-02,17:30:43,"['men_fashion', 'men_bags_wallets']",women_glasses
+189,2017-08-02 17:57:20,"women_fashion,women_bags_wallets",3340,159,3181,2017-08-02,17:57:20,"['women_fashion', 'women_bags_wallets']",men_watches
+190,2017-08-02 19:22:55,"women_fashion,women_bags_wallets",2340,109,2231,2017-08-02,19:22:55,"['women_fashion', 'women_bags_wallets']",women_dresses
+191,2017-08-02 21:18:29,"women_fashion,women_pants_leggings,women_fashion,women_pants_leggings",2460,118,2342,2017-08-02,21:18:29,"['women_fashion', 'women_pants_leggings', 'women_fashion', 'women_pants_leggings']",women_jewelry
+192,2017-08-03 05:59:40,"women_fashion,women_bags_wallets",2740,129,2611,2017-08-03,05:59:40,"['women_fashion', 'women_bags_wallets']",women_sports
+193,2017-08-03 09:11:02,"men_fashion,men_tops",880,0,880,2017-08-03,09:11:02,"['men_fashion', 'men_tops']",women_pants_leggings
+194,2017-08-03 16:48:20,"women_fashion,women_tops,women_fashion,women_pants_leggings,women_fashion,women_tops,women_fashion,women_tops,women_fashion,women_skirts,women_fashion,women_tops",6900,340,6560,2017-08-03,16:48:20,"['women_fashion', 'women_tops', 'women_fashion', 'women_pants_leggings', 'women_fashion', 'women_tops', 'women_fashion', 'women_tops', 'women_fashion', 'women_skirts', 'women_fashion', 'women_tops']",women_shoes
+195,2017-08-03 16:58:29,"women_fashion,women_pants_leggings",1280,0,1280,2017-08-03,16:58:29,"['women_fashion', 'women_pants_leggings']",women_sports
+196,2017-08-03 22:36:53,"women_fashion,women_shoes",2500,0,2500,2017-08-03,22:36:53,"['women_fashion', 'women_shoes']",all
+197,2017-08-04 08:22:59,"women_fashion,women_jewelry",840,125,715,2017-08-04,08:22:59,"['women_fashion', 'women_jewelry']",women_pants_leggings
+198,2017-08-04 21:36:22,"men_fashion,men_shoes",7380,553,6827,2017-08-04,21:36:22,"['men_fashion', 'men_shoes']",all
+199,2017-08-06 02:35:03,"women_fashion,women_shoes",1940,155,1785,2017-08-06,02:35:03,"['women_fashion', 'women_shoes']",women_skirts
+200,2017-08-06 11:47:17,"women_fashion,women_tops",5480,0,5480,2017-08-06,11:47:17,"['women_fashion', 'women_tops']",men_pants
+201,2017-08-07 11:49:30,"women_fashion,women_watches",5220,391,4829,2017-08-07,11:49:30,"['women_fashion', 'women_watches']",women_fashion
+202,2017-08-08 02:07:57,"women_fashion,women_hats",780,0,780,2017-08-08,02:07:57,"['women_fashion', 'women_hats']",all
+203,2017-08-08 11:15:46,"men_fashion,men_hats",1000,0,1000,2017-08-08,11:15:46,"['men_fashion', 'men_hats']",women_tops
+204,2017-08-08 11:55:28,"women_fashion,women_shoes",760,0,760,2017-08-08,11:55:28,"['women_fashion', 'women_shoes']",men_fashion
+205,2017-08-08 14:54:24,"women_fashion,women_tops,women_fashion,women_skirts,women_fashion,all",6640,0,6640,2017-08-08,14:54:24,"['women_fashion', 'women_tops', 'women_fashion', 'women_skirts', 'women_fashion', 'all']",lifestyle_gadget_tech
+206,2017-08-08 20:57:55,"lifestyle,lifestyle_for_home,lifestyle,lifestyle_for_home",9000,675,8325,2017-08-08,20:57:55,"['lifestyle', 'lifestyle_for_home', 'lifestyle', 'lifestyle_for_home']",men_underwear
+207,2017-08-08 22:29:36,"lifestyle,lifestyle_other",3400,100,3300,2017-08-08,22:29:36,"['lifestyle', 'lifestyle_other']",women_other
