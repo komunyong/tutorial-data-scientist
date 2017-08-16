@@ -1,3 +1,41 @@
+import pandas as pd
+import numpy as np
+
+def is_weekend(dayofweek):
+    if dayofweek == 5 or dayofweek == 6:
+        return 1
+    else:
+        return 0
+
+def quarter_time(hour):
+    if hour > 6 and hour <= 9:
+        return 0 # 'morning'
+    elif hour > 9 and hour <= 18:
+        return 1 # 'working_time'
+    elif hour >18 and hour <= 22:
+        return 2 # 'evening'
+    elif hour > 22 and hour <= 24 or hour >= 0 and hour <= 6:
+        return 3 # 'sleep'
+
+def unique_cat(categories):
+    unique_categories = []
+    for cat in categories:
+        if cat.strip() and cat is not None:
+            unique_categories.append(cat)
+    return unique_categories
+
+def word_matrix(row):
+    input_list = row['bought_categories']
+    for x in input_list:
+        row[x] += 1
+    return row
+
+def discretize(df_column, bins):
+    col = df_column.as_matrix()
+    col_bin = np.array(bins)
+    return pd.DataFrame(np.digitize(col, col_bin, right=True))
+
+
 # Saved parameters
 
 # parent_categories = ['lifestyle', 'men_fashion', 'women_fashion']
@@ -20,32 +58,3 @@
 #         if cat not in parent_categories and cat.strip() and cat is not None:
 #             parent_categories.append(cat)
 # parent_categories.sort()
-
-def is_weekend(dayofweek):
-    if dayofweek == 5 or dayofweek == 6:
-        return True
-    else:
-        return False
-
-def quarter_time(hour):
-    if hour > 6 and hour <= 9:
-        return 'morning'
-    elif hour > 9 and hour <= 18:
-        return 'working_time'
-    elif hour >18 and hour <= 22:
-        return 'evening'
-    elif hour > 22 and hour <= 24 or hour >= 0 and hour <= 6:
-        return 'sleep'
-
-def unique_cat(categories):
-    unique_categories = []
-    for cat in categories:
-        if cat.strip() and cat is not None:
-            unique_categories.append(cat)
-    return unique_categories
-
-def word_matrix(row):
-    input_list = row['bought_categories']
-    for x in input_list:
-        row[x] += 1
-    return row
