@@ -1,8 +1,13 @@
-dataset.xlsx: dataset at first place that get from user
+## Resources:
 
-output.csv: is dataset after pre-process and included prediction result (as last columns (0))
+**dataset.xlsx**: dataset at first place that get from user
 
-util.py: keep all utility python function, reuse
+**output.csv**: is dataset after pre-process and included prediction result (as last columns (0))
 
-Recommendation.ipynb: main file that keep all source code 
+**util.py**: keep all utility python function, reuse
 
+**Recommendation.ipynb**: main file that keep all source code 
+
+## Tools:
+
+Anaconda Continuum: Jupyter Notebook
